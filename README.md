@@ -21,6 +21,7 @@ The following tools were used
 * Webstorm
 * Git
 * NPM
+* <a href="https://flickity.metafizzy.co/">Flickity</a> 
 
 ## Screen 
 
